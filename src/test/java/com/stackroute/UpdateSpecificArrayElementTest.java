@@ -77,5 +77,6 @@ public class UpdateSpecificArrayElementTest {
 
 
    // expectedUpdatedArrayList is null
+    // throw an exception if the value demanding change is not present in the input arrayList.
 
 }

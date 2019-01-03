@@ -9,5 +9,16 @@ Write a program to find the number of counts in the following String. Store the 
 
 public class NumberOfCounts {
 
+    String input;
+
+    public String getInput() {
+        return input;
+    }
+
+    public String setInput(String input) {
+        this.input = input;
+        return input;
+    }
+
     ///[!@#$%^&*(),.?":{}|<>]/g
 }
